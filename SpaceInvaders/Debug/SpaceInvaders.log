@@ -1,0 +1,4 @@
+﻿  SpaceInvaders.cpp
+C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(126,15): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(126,18): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+  SpaceInvaders.vcxproj -> C:\Users\MigGj\source\repos\SpaceInvaders\Debug\SpaceInvaders.exe
