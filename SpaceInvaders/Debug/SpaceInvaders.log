@@ -1,7 +1,3 @@
-﻿  SpaceInvaders.cpp
-C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(124,2): warning C4091:  'typedef ': ignored on left of 'console_info' when no variable is declared
-C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(168,22): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(306,26): warning C4244:  'argument': conversion from 'float' to 'const unsigned int', possible loss of data
-C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(310,33): warning C4244:  'argument': conversion from 'float' to 'const unsigned int', possible loss of data
-C:\Users\MigGj\source\repos\SpaceInvaders\SpaceInvaders.cpp(319,15): warning C4101:  'consoleInfo': unreferenced local variable
+﻿  GameCore.cpp
+C:\Users\MigGj\source\repos\SpaceInvaders\GameCore.cpp(10,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   SpaceInvaders.vcxproj -> C:\Users\MigGj\source\repos\SpaceInvaders\Debug\SpaceInvaders.exe
